@@ -9,15 +9,13 @@ menu:
     weight: 3
 
 ---
-**This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
-
-The HTML <h1>–<h6> elements represent six levels of section headings. <h1> is the highest section level and <h6> is the lowest.
-
 # müv mobile app
 
-### **müv is a mobile application designed to allow restaurants to directly interface with their local customers.**
+### **müv is a mobile application designed to allow restaurants to interface directly with their local customers.**
 
-Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
+Currently, there are no efficient search engines for deals and events near you. We offer a consolidated platform where users can access this relevant information, and where local restaurants can dynamically update their promotions. 
+
+![Timeline Interface](/images/app_store_IMG4.jpg)
 
 ## Quoting
 

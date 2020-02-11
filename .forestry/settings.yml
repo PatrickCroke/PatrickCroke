@@ -12,7 +12,6 @@ sections:
 - type: document
   path: _data/social.json
   label: Social Links
-  read_only: false
   templates:
   - social
 - type: document

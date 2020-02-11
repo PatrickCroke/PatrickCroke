@@ -2,7 +2,7 @@
 title: Portfolio
 subtitle: 'müv is a mobile application designed to allow restaurants to directly interface
   with their local customers. '
-img_path: "/images/loadphoot3-2.png"
+img_path: "/images/editcopy.png"
 layout: page
 menu:
   main:
@@ -15,7 +15,7 @@ menu:
 
 Currently, there are no efficient search engines for deals and events near you. We offer a consolidated platform where users can access this relevant information, and where local restaurants can dynamically update their promotions. 
 
-![First page a user sees.](/images/rsz_img_3317.jpg "Timeline Page")
+![First page a user sees.](/images/rsz_img_3317.jpg "Timeline Page") 
 
 ## Quoting
 

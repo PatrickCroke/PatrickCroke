@@ -23,11 +23,5 @@ fields:
   - type: text
     name: url
     label: URL
-  - name: alt-icon
-    type: text
-    config:
-      required: false
-    label: Alt-Icon
-    description: Alt-Icon
   config:
     labelField: title

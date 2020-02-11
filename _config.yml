@@ -11,7 +11,7 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; 2020, Patrick Croke, All rights reserved."
+  content: "&copy; 2020, Patrick Croke. All rights reserved."
   links: []
 sass:
   indentWidth: 4

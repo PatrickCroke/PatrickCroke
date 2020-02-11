@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Essays
 layout: home
 menu:
   main:

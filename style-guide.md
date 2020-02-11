@@ -1,7 +1,8 @@
 ---
 title: Portfolio
-subtitle: 'müv is a mobile application designed to allow restaurants to directly interface
-  with their local customers. '
+subtitle: müv is a mobile application designed to allow restaurants to directly interface
+  with their local customers. Restaurants are able to post their deals, specials,
+  and events on a timeline to update users on what they offer.
 img_path: images/style-guide.jpg
 layout: page
 menu:

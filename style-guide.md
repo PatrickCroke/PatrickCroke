@@ -15,7 +15,7 @@ menu:
 
 Currently, there are no efficient search engines for deals and events near you. We offer a consolidated platform where users can access this relevant information, and where local restaurants can dynamically update their promotions. 
 
-![First page a user sees.](/images/rsz_img_3317.jpg "Timeline Page") 
+![](/images/rsz_img_3317.jpg)
 
 ## Quoting
 

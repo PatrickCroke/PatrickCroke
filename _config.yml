@@ -2,11 +2,11 @@
 title: Patrick Croke
 baseurl: "/"
 permalink: "/:title/"
-palette: yellow
+palette: blue
 header:
-  title: Fjord
+  title: Patrick Croke
   tagline: Minimal and clean blog theme
-  logo_img: images/logo.png
+  logo_img: "/images/7.jpg"
   bg_img: images/header-bg.jpg
   has_nav: true
   has_social: true

@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/PatrickCroke"
-    },
-    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",

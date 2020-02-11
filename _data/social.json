@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Email",
+      "icon": "fa-Email",
+      "url": "pc4qq@virginia.edu"
+    },
+    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",

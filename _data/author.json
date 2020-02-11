@@ -1,11 +1,5 @@
 {
   "name": "Patrick Croke",
   "email": "pc4qq@virginia.edu",
-  "avatar": "images/avatar.png",
-  "menu": {
-    "main": {
-      "weight": 2,
-      "title": "Essays"
-    }
-  }
+  "avatar": "images/avatar.png"
 }

@@ -6,7 +6,7 @@ img_path: "/images/editcopy.png"
 layout: page
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
 # müv mobile app

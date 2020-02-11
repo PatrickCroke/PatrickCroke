@@ -15,13 +15,7 @@ The HTML <h1>–<h6> elements represent six levels of section headings. <h1> is 
 
 # müv mobile app
 
-### This is an H3
-
-#### This is an H4
-
-##### This is an H5
-
-###### This is an H6
+### **müv is a mobile application designed to allow restaurants to directly interface with their local customers.**
 
 Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
 

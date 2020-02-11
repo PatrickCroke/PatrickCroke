@@ -2,7 +2,7 @@
 title: Portfolio
 subtitle: 'müv is a mobile application designed to allow restaurants to directly interface
   with their local customers. '
-img_path: "/images/App_Store_IMG1.jpg"
+img_path: "/images/loadphoot3-2.png"
 layout: page
 menu:
   main:

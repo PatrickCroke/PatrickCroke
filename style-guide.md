@@ -13,29 +13,15 @@ menu:
 
 ### **müv is a mobile application designed to allow restaurants to interface directly with their local customers.**
 
-Currently, there are no efficient search engines for deals and events near you. We offer a consolidated platform where users can access this relevant information, and where local restaurants can dynamically update their promotions. 
+Local restaurants have difficulties in effectively marketing their deals, specials, and events; likewise, potential customers don't have an easy way to access this information. We aim to bridge this gap by creating a network for local restaurants to streamline this information to their customer base.
 
 ![](/images/rsz_img_3317.jpg)
 
-## Quoting
+We provide cheap, technological solutions to restaurant promotion. Instead of letting restaurants spend excessive amounts on creating yet another app for their business, müv unifies all of that information on a single platform. 
 
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
+Restaurants will have the power to create their own rewards and incentives to send to their loyal customers, as well as post dynamic deals to a timeline that anyone around can see.
 
-> “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams</cite>
-
-A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the <cite> element.
-
-<hr />
-
-## Unordered Lists
-
-Groups a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
-
-* Donec non tortor in arcu mollis feugiat
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-* Donec id eros eget quam aliquam gravida
-* Vivamus convallis urna id felis
-* Nulla porta tempus sapien
+![](/images/restpage.png)
 
 ## Ordered Lists
 

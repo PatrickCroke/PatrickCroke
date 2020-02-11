@@ -3,11 +3,11 @@ label: Home
 hide_body: true
 fields:
 - type: text
-  name: title
-  label: Title
+  name: Essays
   description: The title of the page.
   config:
     required: true
+  label: Essays
 - type: text
   name: layout
   label: Layout

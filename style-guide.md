@@ -23,12 +23,6 @@ Restaurants will have the power to create their own rewards and incentives to se
 
 ![](/images/restpage.png)
 
-## Ordered Lists
+We are currently in the phase of generating a map based interface, in which users will be able quickly navigate the events, deals, or other relevant information regarding what's happening near them. 
 
-Represents a list of items. The only difference from the unordered list is taht the order of the items is meaningful.
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+You can check out our app [here.](https://apps.apple.com/us/app/themüv/id1481723912?ls=1 "iOS download")

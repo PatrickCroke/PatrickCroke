@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ''
-img_path: "/images/IMG_3319.jpg"
+img_path: "/images/IMG_3319 copy.jpg"
 layout: page
 menu:
   main:

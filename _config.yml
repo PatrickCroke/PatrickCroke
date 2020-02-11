@@ -11,11 +11,8 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; All rights reserved."
-  links:
-  - text: Made with Stackbit
-    url: https://www.stackbit.com
-    new_window: true
+  content: "&copy; 2020, Patrick Croke, All rights reserved."
+  links: []
 sass:
   indentWidth: 4
   style: nested

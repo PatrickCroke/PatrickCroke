@@ -4,10 +4,8 @@ subtitle: ''
 date: 2020-02-17 23:20:59 -0500
 thumb_img_path: "/images/marcus-aurelius.jpg"
 content_img_path: "/images/marcus-aurelius.jpg"
-excerpt: Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by means
-  of an image sensor, or chemically by means of a light-sensitive material such as
-  photographic film.
+excerpt: Statue of Marcus Aurelius in the Michelangelo-designed Piazza del Campidoglio
+  in front of the Capitoline Museum, Rome, Italy.
 layout: post
 hide_header: false
 

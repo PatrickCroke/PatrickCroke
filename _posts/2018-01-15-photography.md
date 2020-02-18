@@ -1,8 +1,8 @@
 ---
 title: The Worst of Human Vices
 subtitle: ''
-date: 2018-01-15
-thumb_img_path: images/8.jpg
+date: 2020-02-17 23:20:59 -0500
+thumb_img_path: "/images/marcus_aurelius.jpg"
 content_img_path: images/8.jpg
 excerpt: Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by means

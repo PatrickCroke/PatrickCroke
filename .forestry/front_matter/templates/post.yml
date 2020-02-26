@@ -43,5 +43,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-01-09-fragments-of-iceland.md
 - _posts/2018-01-15-photography.md

@@ -1,5 +1,5 @@
 ---
-title: The Worst of Human Vices
+title: In Case You Forgot . . .
 subtitle: ''
 date: 2020-02-17 23:20:59 -0500
 thumb_img_path: "/images/marcus-aurelius.jpg"
@@ -10,16 +10,10 @@ layout: post
 hide_header: false
 
 ---
-**We slovenly creatures** suffer from numerous inexorable proclivities toward mindsets that are so self-deprecating, it almost seems as though it were by design, inflicted upon us by some divine measure in an act of retribution. 
+**Your life** will inevitably end in death. 
 
-Of course, such a thought seems akin to the Orthodox Christian understanding of sin, but the very act of juxtaposing any idea with that of the theological (much less of the Christian type), leads to the immediate dismissal from the 'high-brow' academic, as even a mere second glance at religion would be considered 'sin' under the new _de facto_ code of the infallible Western Scholar. 
+It is gravely important to remember this terrible, tragic fact of life, as it should kindle a fire that keeps you in motion, as opposed to static complacency. 
 
-Surely though, the modern academic is preferable to the proselytizing, pseudo-religious swindler who has even deceived themselves through the subtle pat-on-the-back denoting their own self-righteousness. But to claim that such habitual self-aggrandizement is relegated to only the pseudo-religious would be a farce; any ideology will do. Contemporary politics serve as a wonderful incubator for such a disease.
+There are no redeeming factors in catering to our mimetic resting states and entrenching ourselves in paths that have been well-worn by many before us. The status quo is driven by a certain kind of fear, a fear characterized by the 'flight' as opposed to the fight mechanism. Such a state causes one to constantly look to their immediate surroundings for help, finding the paths of least resistance to hedonically quiesce their fear. 
 
-But enough with these vague and generalized ideas, I am writing for and to the individual, and am hoping to shed light upon habits that can be observed within oneself, as opposed to writing about scapegoats. 
-
-I am seeking to enunciate on what I believe are a subset of our habitual proclivities that appear to be conserved across the human race. These intuitive inclinations- namely self-pity and vanity- may collectively hold the highest market share of human self-destruction in the aggregate of mankind. 
-
-It is not that either one of these mindsets can be simply categorized as inherently good or bad; rather, both mindsets come with a plethora of benefits and drawbacks. Vanity is actually a highly desired state of mind but is much more scarce as it is typically reserved for the well-off (be it in looks, wealth, athleticism). Whether the well-off rightfully deserve their position, or the foundation of their vanity was simply bestowed upon them from the heavens, no distinction is necessary when theorizing a pathology for vanity. There are many ways to find the same conclusion.
-
-Self-pity differs in that it is the central mechanism of the poor and the downtrodden, the lost and the damned, used to fight back against the grain of circumstance. It is a form of short term gratification to satiate the incessant hunger of the impoverished, until their day of reckoning and justification of their troubles finally occurs (needless to say, many of the poor stay hungry. . .). While self-pity is not as scarce, not all forms of it are the same. Some certainly are able to leverage certain circumstances at a higher payoff in terms of its social value. There's a lot of money to be redistributed for those who can conjure up compelling, self-pitying narratives.  
+Those who do not entertain the immediate tendencies to capitulate in the face of fear choose to fight. One could describe this course of action as a forging of one's own path. Fighting against a potential well does indeed necessitate a work function; but such a pursuit can yield a sense of liberation akin to the [allegory of the cave](https://web.stanford.edu/class/ihum40/cave.pdf "Plato - Allegory of the Cave")

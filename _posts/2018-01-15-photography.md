@@ -10,9 +10,8 @@ layout: post
 hide_header: false
 
 ---
-![](/images/images.png)
 
-**Behold** . . .
+                                ![](/images/images.png)
 
 The limbic system. The entrepôt for nearly all of our internal problems. Within the entangled mesh of the brain, this system mediates the most fundamental aspect of our minds: habit.
 

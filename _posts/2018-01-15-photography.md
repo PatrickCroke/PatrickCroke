@@ -11,7 +11,7 @@ hide_header: false
 
 ---
 
-![](/images/artisan1.jpg)
+![The Heroic Artisan Archetype, from bygone days in which individualism and craftsmanship were of highest virtue](/images/artisan1.jpg "19th Century Artisan")
 
 The limbic system. The entrepôt for nearly all of our internal problems. Within the entangled mesh of the brain, this system mediates the most fundamental aspect of our minds: habit.
 

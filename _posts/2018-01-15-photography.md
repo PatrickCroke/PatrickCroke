@@ -2,7 +2,7 @@
 title: What a Time to Be Alive
 subtitle: Making sense of the seemingly nonsensical
 date: 2020-03-20 00:00:00 -0400
-thumb_img_path: "/images/images.png"
+thumb_img_path: "/images/artisan1.jpg"
 content_img_path: "/images/020d024aa0a16ad2d70ec4b404e7d1a12944174c.jpeg"
 excerpt: Entropy, often described as disorder, is a measure of the number of ways
   a thermodynamic system can be arranged.
